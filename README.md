@@ -1,5 +1,7 @@
 <div align="center">
 
+![Orbit Desktop — Твои идеи. Твой AI.](./assets/orbit-banner.png)
+
 # ✦ Orbit Desktop
 
 ### Твои идеи. Твой AI.
@@ -7,10 +9,11 @@
 Твой AI-помощник в отдельном приложении.  
 Минималистичный интерфейс, тёмная тема и пространство для твоих идей.
 
-[![Открыть сайт](https://img.shields.io/badge/Открыть_сайт-Orbit-a192ff?style=for-the-badge)](https://orbit.nikitoslox666.workers.dev/)
-[![Скачать приложение](https://img.shields.io/badge/Скачать-для_Windows-65558f?style=for-the-badge)](https://orbit.nikitoslox666.workers.dev/dowloandapp)
-[![Обратная связь](https://img.shields.io/badge/Обратная_связь-Issues-30364f?style=for-the-badge&logo=github)](https://github.com/n23446779-png/Orbit-desktop/issues)
-[![Лицензия](https://img.shields.io/badge/Лицензия-проприетарная-454052?style=for-the-badge)](./LICENSE.txt)
+[![Открыть сайт](https://img.shields.io/badge/Открыть_сайт-Orbit-58B8F5?style=for-the-badge)](https://orbit.nikitoslox666.workers.dev/)
+[![Скачать приложение](https://img.shields.io/badge/Скачать-для_Windows-287ABD?style=for-the-badge)](https://orbit.nikitoslox666.workers.dev/dowloandapp)
+[![YouTube](https://img.shields.io/badge/YouTube-Наши_Shorts-EA394C?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OrbitAIOfficialChannel/shorts)
+[![Обратная связь](https://img.shields.io/badge/Обратная_связь-Issues-203B5B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n23446779-png/Orbit-desktop/issues)
+[![Лицензия](https://img.shields.io/badge/Лицензия-проприетарная-354A65?style=for-the-badge)](./LICENSE.txt)
 
 </div>
 
@@ -20,7 +23,7 @@
 
 Orbit Desktop — приложение для общения с AI в отдельном окне.
 
-Тёмная палитра, мягкие акценты и лаконичный интерфейс — чтобы
+Тёмная тема, мягкие акценты и лаконичный интерфейс — чтобы
 сосредоточиться на разговоре, вопросах и новых идеях.
 
 Предпочитаешь браузер? Открой
@@ -66,6 +69,18 @@ Orbit Desktop — приложение для общения с AI в отдел
 
 > Не публикуй API-ключи, токены и другие секретные данные.
 
+## Орбит и наш канал
+
+[![Орбит — на орбите идей](./assets/orbit-mascot.png)](https://www.youtube.com/@OrbitAIOfficialChannel/shorts)
+
+Орбит — наш космический талисман: любопытная планета в очках,
+у которой одна маленькая идея легко превращается в целую вселенную.
+
+На канале — анимации и короткие истории с Орбитом.
+Его главное правило: «Так. Без паники».
+
+[![Смотреть Shorts](https://img.shields.io/badge/Смотреть_на_YouTube-Orbit-EA394C?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OrbitAIOfficialChannel/shorts)
+
 ## Ошибки и предложения
 
 Нашёл проблему или придумал улучшение?
@@ -106,6 +121,6 @@ Orbit Desktop распространяется по проприетарной �
 
 <div align="center">
 
-✦ Orbit — chat with your ai helper
+✦ Orbit — Твоим идеям есть место.
 
 </div>
